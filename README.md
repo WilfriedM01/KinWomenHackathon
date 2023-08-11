@@ -156,7 +156,7 @@ This design is licensed under a Creative Commons Attribution.
 
 There are many reasons why you should join the ReviewMe community. Here are a few of the most important ones:
 
-- **Improve your code quality.** By having your code reviewed by other developers, you can get feedback on how to improve its quality. This can help you to find and fix bugs, improve readability, and make your code more efficien.
+- **Improve your code quality.** By having your code reviewed by other developers, you can get feedback on how to improve its quality. This can help you to find and fix bugs, improve readability, and make your code more efficient.
 
 - **Learn from other developers.** By reviewing other people's code, you can learn new techniques and approaches to development. You can also learn about different programming languages and frameworks.
 
